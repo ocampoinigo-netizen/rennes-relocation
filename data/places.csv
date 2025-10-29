@@ -1,0 +1,21 @@
+name,type,neighborhood,address,short_blurb,rating,price_level,hours,phone,website,map_url
+Café du Port,Café,Thabor,"7 Rue du Quai, Rennes",Waterfront café serving artisanal coffee and pastries.,4.6,€,08:00–19:00,+33 2 99 12 34 56,https://cafeduport.fr,https://goo.gl/maps/abc123
+Café du Musée,Café,Centre,"3 Rue de la Monnaie, Rennes","Elegant café inside the museum, ideal for an afternoon espresso.",4.4,€,09:00–18:00,+33 2 99 45 67 89,https://cafedumusee.fr,https://goo.gl/maps/def456
+Café des Arts,Café,Villejean,"15 Rue des Arts, Rennes",Creative café and gallery showcasing local artists.,4.8,€,09:00–20:00,+33 2 99 98 76 54,https://cafedesarts.fr,https://goo.gl/maps/ghi789
+Le Jardin Café,Café,Thabor,"18 Avenue du Jardin, Rennes",Hidden garden café surrounded by greenery and calm atmosphere.,4.7,€€,08:30–18:30,+33 2 99 34 12 90,https://lejardincafe.fr,https://goo.gl/maps/jkl012
+Café République,Café,Centre,"1 Place de la République, Rennes",Classic French café with a sunny terrace and homemade croissants.,4.3,€,07:30–20:00,+33 2 99 56 11 22,https://caferepublique.fr,https://goo.gl/maps/mno345
+Le Bistrot du Coin,Restaurant,Centre,"12 Rue du Champ Jacquet, Rennes",Authentic French bistro offering local dishes and fine wines.,4.8,€€,12:00–22:30,+33 2 99 88 11 00,https://bistrotducoin.fr,https://goo.gl/maps/pqr678
+Chez Paul,Restaurant,Gares,"22 Boulevard de la Liberté, Rennes",Cozy restaurant famous for its Breton specialties.,4.5,€€,12:00–23:00,+33 2 99 22 33 44,https://chezpaul.fr,https://goo.gl/maps/stu901
+Le Panier Gourmand,Restaurant,Thabor,"5 Rue des Gourmets, Rennes",Modern eatery serving seasonal dishes with local ingredients.,4.7,€€€,12:00–22:00,+33 2 99 44 55 66,https://lepaniergourmand.fr,https://goo.gl/maps/vwx234
+Trattoria Bella Vita,Restaurant,Centre,"10 Rue d’Italie, Rennes",Family-run Italian trattoria known for its handmade pasta.,4.6,€€,11:30–23:00,+33 2 99 33 44 55,https://bellavita.fr,https://goo.gl/maps/yz1234
+La Table Verte,Restaurant,Villejean,"8 Avenue du Campus, Rennes",Vegetarian restaurant with creative and sustainable cuisine.,4.9,€€,11:45–22:00,+33 2 99 77 88 99,https://latableverte.fr,https://goo.gl/maps/abc567
+Le Zinc,Bar,Centre,"14 Rue Saint-Hélier, Rennes",Trendy bar offering local craft beers and live music nights.,4.5,€,17:00–02:00,+33 2 99 88 22 77,https://lezinc.fr,https://goo.gl/maps/bar123
+Bar du Thabor,Bar,Thabor,"9 Avenue du Parc, Rennes","Relaxed bar overlooking Thabor gardens, perfect for cocktails.",4.4,€,16:00–01:00,+33 2 99 55 44 33,https://barduthabor.fr,https://goo.gl/maps/bar456
+Le Comptoir Breton,Bar,Gares,"3 Rue de la Gare, Rennes",Friendly neighborhood bar serving cider and Breton tapas.,4.6,€,17:00–01:30,+33 2 99 66 77 88,https://comptoirbreton.fr,https://goo.gl/maps/bar789
+Bar 1925,Bar,Centre,"25 Rue Nationale, Rennes",Elegant art deco bar offering signature cocktails.,4.7,€€,18:00–02:00,+33 2 99 77 55 44,https://bar1925.fr,https://goo.gl/maps/bar987
+Le Breizh Pub,Bar,Villejean,"19 Rue de Bretagne, Rennes",Popular student pub with quiz nights and live DJs.,4.3,€,17:00–02:00,+33 2 99 33 11 00,https://breizhpub.fr,https://goo.gl/maps/bar654
+La Station,Cowork,Gares,"12 Rue de la Gare, Rennes",Modern coworking space offering flexible day passes.,4.8,€€,08:00–20:00,+33 2 99 11 22 33,https://lastation.fr,https://goo.gl/maps/cow001
+Le Loft,Cowork,Centre,"20 Rue de la République, Rennes",Stylish coworking with private rooms and a café.,4.7,€€,08:00–19:00,+33 2 99 44 22 55,https://leloft.fr,https://goo.gl/maps/cow002
+Kube,Cowork,Thabor,"2 Rue du Parc, Rennes",Creative coworking community for freelancers and startups.,4.9,€€,08:00–21:00,+33 2 99 88 77 00,https://kubecowork.fr,https://goo.gl/maps/cow003
+Bureau Nomade,Cowork,Villejean,Bright coworking space with meeting rooms and events.,4.6,€€,09:00–19:00,+33 2 99 12 34 56,https://bureaunomade.fr,https://goo.gl/maps/cow004,
+Work&Co,Cowork,Centre,"11 Rue des Entrepreneurs, Rennes",Coworking and business hub with networking opportunities.,4.8,€€,08:00–20:00,+33 2 99 66 44 33,https://workandco.fr,https://goo.gl/maps/cow005

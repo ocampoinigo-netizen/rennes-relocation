@@ -1,0 +1,6 @@
+item_id,checklist_id,text,link_url,required
+i1,pre_departure_docs,Passport valid for 6+ months,,True
+i2,pre_departure_docs,Birth certificate + translation (if needed),,False
+i3,pre_departure_docs,Visa documents,,True
+i4,pre_departure_housing,Short‑term stay for first week(s),,False
+i5,pre_departure_housing,Prepare guarantor documents,,False
