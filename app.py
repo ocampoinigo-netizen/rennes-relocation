@@ -305,17 +305,21 @@ st.session_state.setdefault("current_view", "landing")  # landing | planning | a
 # ---------- top nav ----------
 c1, c2 = st.columns([1,1])
 with c1:
-    if st.button(TEXT["home"][st.session_state["lang"]]):
-        reset_home()
+    if st.session_state["current_view"] != "landing":
+        if st.button(TEXT["home"][st.session_state["lang"]]):
+            reset_home()
+            st.rerun()
 with c2:
     if st.session_state["current_view"] in ("planning", "arrived"):
         # quick switch between branches
         if st.session_state["current_view"] == "planning":
             if st.button(TEXT["switch_arrived"][st.session_state["lang"]]):
                 set_current_view("arrived")
+                st.rerun()
         else:
             if st.button(TEXT["switch_planning"][st.session_state["lang"]]):
                 set_current_view("planning")
+                st.rerun()
 
 st.markdown("<hr style='border:1px solid #ddd;margin:20px 0;'>", unsafe_allow_html=True)
 
@@ -340,7 +344,7 @@ if view == "landing":
         st.session_state["status"] = arrival_status
         # jump directly to next view (NO double click)
         set_current_view("planning" if arrival_status == "Planning" else "arrived")
-        st.experimental_rerun()
+        st.rerun()
 
 # ---- PLANNING ----
 elif view == "planning":
